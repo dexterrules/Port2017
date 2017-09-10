@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+h1.special {
+	font-family: 'Playfair Display', serif;
+	font-size: 2em ;
+	padding: 5% 15% 5% 15% ;
+	color: black;
+}
+
+h1.banner-special {
+	font-family: 'Playfair Display', serif;
+	font-size: 3em ;
+	color: black;
+}
+
+h1.italics-special {
+	font-family: 'Playfair Display', serif;
+	font-size: 1em ;
+	color: black;
+	}

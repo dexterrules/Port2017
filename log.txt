@@ -1,0 +1,11 @@
+9th Sept Sat
+
+
+Change the variables in intitial-variables.sass
+Use Koala to export bulma.sass (compile) A bulma.css file will be created.
+Link this bulma file to the html doc. 
+Note: there is also one more css file inside css/bulma.css Don't use this one.
+Just change the variable value in the sub folders of sass files, but compile ONLY bulma.sass 
+
+If others are compiled, it gives an error message. Ignore that message.
+
